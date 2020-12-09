@@ -1,3 +1,29 @@
 {
-	
+	"configurations": 
+	[
+		{
+      	"id": "0",
+      	"version": "1.0",
+      	"name": "Basic configurations",
+      	"package_name":"com.miHoYo.GenshinImpact",
+      	"description": "This is a basic configurations of the graphics manager for Genshin Impact by KN",
+      	"link" : "https://raw.githubusercontent.com/KilzaNiko/GI-GLTool/master/basicGI_KN.glt"
+      },
+      {
+       	"id": "1",
+       	"version": "1.0",
+       	"name": "Advance configurations",
+       	"package_name":"com.miHoYo.GenshinImpact",
+       	"description": "This is a advance configurations of the graphics manager for Genshin Impact by KN",
+       	"link" : "https://raw.githubusercontent.com/KilzaNiko/GI-GLTool/master/advancedGI_KN.glt"
+      },
+    	{
+       	"id": "2",
+         "version": "1.0",
+         "name": "Multi configurations",
+         "package_name":"com.miHoYo.GenshinImpact",
+         "description": "This is a multi configurations of the graphics manager for Genshin Impact by KN",
+         "link" : "https://raw.githubusercontent.com/KilzaNiko/GI-GLTool/master/multiGI_KN.glt"
+      }
+	]
 }
