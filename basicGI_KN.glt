@@ -1,0 +1,15 @@
+<ConfigInfo>
+     <Key>+CVars=r.MobileContentScaleFactor=</Key>
+     <KeyInfo>Resolution</KeyInfo>
+     <KeyDescription>Change Resolution Settings</KeyDescription>
+     <IsMultipleKeys>False</IsMultipleKeys>
+     <MultipleKeys>N/A</MultipleKeys>
+     <MultipleKeyValues>N/A</MultipleKeyValues>
+     <nValue>384x240,512x320,800x600,960x540,1024x576,1280x720</nValue>
+     <rValue>.50,.60,.70,.80,.90,1.0</rValue>
+     <RequiredAssert>False</RequiredAssert>
+     <OriginalAssertPath>N/A</OriginalAssertPath>
+     <OriginalAssertName>N/A</OriginalAssertName>
+     <ModifiedAssertPath>N/A</ModifiedAssertPath>
+     <ModifiedAssertName>N/A</ModifiedAssertName>
+</ConfigInfo>

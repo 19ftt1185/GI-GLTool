@@ -1,0 +1,15 @@
+<ConfigInfo>
+     <Key>+CVars=r.DeviceFPSLow=</Key>
+     <KeyInfo>FPS</KeyInfo>
+     <KeyDescription>Change Framerate Settings</KeyDescription>
+     <IsMultipleKeys>True</IsMultipleKeys>
+     <MultipleKeys>+CVars=r.DeviceFPSMid=,+CVars=r.DeviceFPSHigh=</MultipleKeys>
+     <MultipleKeyValues>20:25:30:40:60,20:25:30:40:60</MultipleKeyValues>
+     <nValue>Potato,Low,Medium,High,Ultra,Extreme</nValue>
+     <rValue>20,25,30,40,60</rValue>
+     <RequiredAssert>False</RequiredAssert>
+     <OriginalAssertPath>N/A</OriginalAssertPath>
+     <OriginalAssertName>N/A</OriginalAssertName>
+     <ModifiedAssertPath>N/A</ModifiedAssertPath>
+     <ModifiedAssertName>N/A</ModifiedAssertName>
+</ConfigInfo>
